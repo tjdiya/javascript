@@ -1,4 +1,4 @@
-
+findPrime(20);
 function findPrime(limit){
     
     for(let i=2;i<=limit;i++){
@@ -17,6 +17,5 @@ function isPrime(item){
     return true;
 
 }
-
 
 findPrime(20);
